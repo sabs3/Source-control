@@ -39,7 +39,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/artist.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.19480519">
-              <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding>
                 <element signature="e#99#100#0" expanded="true" />
                 <element signature="e#147#148#0" expanded="true" />
@@ -547,7 +547,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="40" y="57" width="1400" height="790" extended-state="0" />
+    <frame x="40" y="57" width="1400" height="790" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -592,7 +592,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/artist.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.19480519">
-          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding>
             <element signature="e#99#100#0" expanded="true" />
             <element signature="e#147#148#0" expanded="true" />
