@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3321c7c4-6d0d-4697-bd99-2575b05b2886" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/artist.java" afterPath="$PROJECT_DIR$/src/main/java/artist.java" />
-    </list>
+    <list default="true" id="3321c7c4-6d0d-4697-bd99-2575b05b2886" name="Default" comment="" />
     <ignored path="cnr.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -38,8 +36,8 @@
       <file leaf-file-name="artist.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/artist.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.19480519">
-              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.17316018">
+              <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
               <folding>
                 <element signature="e#99#100#0" expanded="true" />
                 <element signature="e#147#148#0" expanded="true" />
@@ -547,7 +545,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="40" y="57" width="1400" height="790" extended-state="1" />
+    <frame x="40" y="57" width="1400" height="790" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -591,8 +589,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/artist.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.19480519">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.17316018">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
           <folding>
             <element signature="e#99#100#0" expanded="true" />
             <element signature="e#147#148#0" expanded="true" />
