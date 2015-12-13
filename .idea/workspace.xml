@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3321c7c4-6d0d-4697-bd99-2575b05b2886" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/artist.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cnr.iml" afterPath="$PROJECT_DIR$/cnr.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/artist.java" afterPath="$PROJECT_DIR$/src/main/java/artist.java" />
     </list>
     <ignored path="cnr.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -40,7 +39,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/artist.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.19480519">
-              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
               <folding>
                 <element signature="e#99#100#0" expanded="true" />
                 <element signature="e#147#148#0" expanded="true" />
@@ -593,7 +592,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/artist.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.19480519">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
           <folding>
             <element signature="e#99#100#0" expanded="true" />
             <element signature="e#147#148#0" expanded="true" />
